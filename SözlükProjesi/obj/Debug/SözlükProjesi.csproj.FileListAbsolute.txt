@@ -1,0 +1,13 @@
+C:\Users\LENOVO\source\repos\YazılımYapımı\SözlükProjesi\bin\Debug\SözlükProjesi.exe.config
+C:\Users\LENOVO\source\repos\YazılımYapımı\SözlükProjesi\bin\Debug\SözlükProjesi.exe
+C:\Users\LENOVO\source\repos\YazılımYapımı\SözlükProjesi\bin\Debug\SözlükProjesi.pdb
+C:\Users\LENOVO\source\repos\YazılımYapımı\SözlükProjesi\bin\Debug\MetroFramework.dll
+C:\Users\LENOVO\source\repos\YazılımYapımı\SözlükProjesi\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\LENOVO\source\repos\YazılımYapımı\SözlükProjesi\obj\Debug\SözlükProjesi.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\YazılımYapımı\SözlükProjesi\obj\Debug\SözlükProjesi.Form1.resources
+C:\Users\LENOVO\source\repos\YazılımYapımı\SözlükProjesi\obj\Debug\SözlükProjesi.Properties.Resources.resources
+C:\Users\LENOVO\source\repos\YazılımYapımı\SözlükProjesi\obj\Debug\SözlükProjesi.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\YazılımYapımı\SözlükProjesi\obj\Debug\SözlükProjesi.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\YazılımYapımı\SözlükProjesi\obj\Debug\SözlükProjesi.csproj.CopyComplete
+C:\Users\LENOVO\source\repos\YazılımYapımı\SözlükProjesi\obj\Debug\SözlükProjesi.exe
+C:\Users\LENOVO\source\repos\YazılımYapımı\SözlükProjesi\obj\Debug\SözlükProjesi.pdb
