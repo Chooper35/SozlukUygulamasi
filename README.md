@@ -1,2 +1,2 @@
-# S-zl-kUygulamas-
+## SozlukUygulamasi
 İngilizcedeki kelimelerilerin türkçe karşılıklarının öğrenilmesini sağlıyor.
