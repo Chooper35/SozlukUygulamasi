@@ -1,5 +1,5 @@
 ## SozlukUygulamasi
-İngilizcedeki kelimelerilerin türkçe karşılıklarının öğrenilmesini sağlıyor.Uygulamada Entity Framework ve MetroForm eklentilerini kullandım veritabanı sql e bağlantısını entity framework ile yaptım.
+ Uygulama İngilizcedeki kelimelerilerin türkçe karşılıklarının öğrenilmesini sağlıyor.Uygulamada Entity Framework ve MetroForm eklentilerini kullanıldı, Veritabanı sql kullanıldı, veritabanı bağlantısı için Entity framework kullanıldı.
 
 ![KelimeEkleme](https://user-images.githubusercontent.com/37003658/58258257-1ba8af80-7d7b-11e9-842c-904d5bb3a631.png)
 
